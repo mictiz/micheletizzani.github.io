@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Michele Tizzani
-    - name: Date of Birth
-      value: 14th March 1879
     - name: Languages
       value: English, Italian
 
@@ -15,18 +13,14 @@
       institution: University of Parma, Italy
       year: 2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Thesis. Dynamical processes and memory effects on temporal networks.
+
     - title: Master Degree
-      institution: THeoretical Physics - Università degli Studi di Roma Tor Vergata , Italy
+      institution: Theoretical Physics - Università degli Studi di Roma Tor Vergata , Italy
       year: 2015
       description:
-        - The kinetic equation for the Bose-Einstein condensate in the limit of dilute gases.
-        - Description 2.
+        - Thesis. The kinetic equation for the Bose-Einstein condensate in the limit of dilute gases.
+
 
 - title: Experience
   type: time_table
@@ -71,12 +65,27 @@
         - Hypergraphs.
         - Temporal networks.
         - Phase transitions.
-    - title: COmputational Social Science.
+    - title: Computational Social Science.
       items:
         - Information-seeking behavior.
         - Infodemics.
+    - title: Epidemics.
+      items:
+        - Contact Matrices.
+        - Agent Based Model.
+        - Statistical Modeling.
 
 - title: Other Interests
-  type: list
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Music.
+    - items:
+      - Music composition
+      - Jazz Guitar
+      - Ethnic Music
+    - title: Photography
+    - items:
+      - Digital photography
+      - Film photography
+      - B&W
+
