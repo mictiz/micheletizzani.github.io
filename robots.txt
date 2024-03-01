@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://micheletizzani.github.io/mictiz/sitemap.xml
+Sitemap: https://micheletizzani.github.io/sitemap.xml
