@@ -39,7 +39,7 @@
       "area": "Physics",
       "studyType": "PhD",
       "endDate": "2019",
-      "thesis":  "Dynamical processes and memory effects on temporal networks."
+      "thesis": "Dynamical processes and memory effects on temporal networks."
     },
     {
       "institution": "University of Roma Tor Vergata, Italy",
@@ -125,12 +125,7 @@
       "name": "Physics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Physics",
-        "Modeling",
-        "Statistical Analysis",
-        "Natural Language Processing"
-      ]
+      "keywords": ["Physics", "Modeling", "Statistical Analysis", "Natural Language Processing"]
     }
   ],
   "languages": [
@@ -149,46 +144,40 @@
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Complex Systems",
-        "Computational Social Science",
-        "Epidemics",
-        "Agent Based Models",
-        "Higher order networks"
-      ]
+      "keywords": ["Complex Systems", "Computational Social Science", "Epidemics", "Agent Based Models", "Higher order networks"]
     }
   ],
 
   "theaching": [
-      {
-        "name": "Lecturer for Analysis and Visualization of Complex Network",
-        "institution": "University of Turin, Turin, Italy",
-        "startDate": "2023",
-        "endDate": "2024",
-        "summary": "Course on Network Science for Computer Science"
-      },
-      {
-        "name": "High school teacher of mathematics and physics",
-        "institution": "Convitto Maria Luigia, Parma, Parma, Italy",
-        "startDate": "2018",
-        "endDate": "2018",
-        "summary": "Math ancd physics theacher, highschool"
-      },
-      {
-        "name": "Tutoring activity in physics for Biotechnology",
-        "institution": "University of Parma, Parma, Italy",
-        "startDate": "2018",
-        "endDate": "2018",
-        "summary": "Tutor of Classical Physics for Biotechnology student"
-      },
-      {
-        "name": "Physics lab assistent",
-        "institution": "University of Parma, Parma, Italy",
-        "startDate": "2018",
-        "endDate": "2018",
-        "summary": "Lab assisten for Classical mechanics course."
-      }
-    ],
+    {
+      "name": "Lecturer for Analysis and Visualization of Complex Network",
+      "institution": "University of Turin, Turin, Italy",
+      "startDate": "2023",
+      "endDate": "2024",
+      "summary": "Course on Network Science for Computer Science"
+    },
+    {
+      "name": "High school teacher of mathematics and physics",
+      "institution": "Convitto Maria Luigia, Parma, Parma, Italy",
+      "startDate": "2018",
+      "endDate": "2018",
+      "summary": "Math ancd physics theacher, highschool"
+    },
+    {
+      "name": "Tutoring activity in physics for Biotechnology",
+      "institution": "University of Parma, Parma, Italy",
+      "startDate": "2018",
+      "endDate": "2018",
+      "summary": "Tutor of Classical Physics for Biotechnology student"
+    },
+    {
+      "name": "Physics lab assistent",
+      "institution": "University of Parma, Parma, Italy",
+      "startDate": "2018",
+      "endDate": "2018",
+      "summary": "Lab assisten for Classical mechanics course."
+    }
+  ],
   "projects": [
     {
       "name": "EPIDEMIOLOGY",
@@ -214,6 +203,5 @@
       "endDate": "2018-01-01",
       "url": "https://example.com"
     }
-    
   ]
 }
