@@ -21,17 +21,16 @@
       description:
         - Thesis. The kinetic equation for the Bose-Einstein condensate in the limit of dilute gases.
 
-
 - title: Experience
   type: time_table
   contents:
-    - title:  Postdoc researcher
+    - title: Postdoc researcher
       institution: ISI Foundation
       year: 2019
       description:
 
     - title: Internship
-      institution:  LAPD - Aix-Marseille Université, Marseille, France
+      institution: LAPD - Aix-Marseille Université, Marseille, France
       year: 2013
       description:
         - Description 1.
@@ -40,22 +39,22 @@
 - title: Theaching
   type: time_table
   contents:
-    - title:  Lecturer for Analysis and Visualization of Complex Network 
-      institution:  University of Turin, Turin, Italy
+    - title: Lecturer for Analysis and Visualization of Complex Network
+      institution: University of Turin, Turin, Italy
       year: 2023-2024
       description:
 
-    - title: High school teacher of mathematics and physics 
+    - title: High school teacher of mathematics and physics
       institution: Convitto Maria Luigia, Parma, Parma, Italy
       year: 2018
 
     - title: Tutoring activity in physics for Biotechnology
       institution: University of Parma, Parma, Italy
-      year: 2018  
-    
+      year: 2018
+
     - title: Physics lab assistent
       institution: University of Parma, Parma, Italy
-      year: 2018  
+      year: 2018
 
 - title: Academic Interests
   type: nested_list
@@ -80,12 +79,11 @@
   contents:
     - title: Music.
     - items:
-      - Music composition
-      - Jazz Guitar
-      - Ethnic Music
+        - Music composition
+        - Jazz Guitar
+        - Ethnic Music
     - title: Photography
     - items:
-      - Digital photography
-      - Film photography
-      - B&W
-
+        - Digital photography
+        - Film photography
+        - B&W
